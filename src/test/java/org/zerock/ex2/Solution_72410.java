@@ -15,8 +15,12 @@ public class Solution_72410 {
 
     }
 
-
-    //  신규 아이디 추천
+    // https://programmers.co.kr/learn/challenges
+    /*
+    * 문제 : 신규 아이디 추천
+    * 문제점 및 배운점 : replaceAll 에 정규식으로 처리하면 깔끔하게 떨어진다.
+    * while 처리
+    * */
     public String solution(String new_id) {
         String answer = "";
         //1단계 new_id의 모든 대문자를 대응되는 소문자로 치환합니다.
