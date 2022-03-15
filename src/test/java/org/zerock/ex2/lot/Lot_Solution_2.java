@@ -1,4 +1,4 @@
-package org.zerock.ex2;
+package org.zerock.ex2.lot;
 
 import org.junit.jupiter.api.Test;
 
